@@ -18,12 +18,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Artificial Intelligence** at **Indian Institute of Information Technology (IIIT) Lucknow** *(CGPA: 8.7)*
+- 🎓 **B.Tech in Computer Science & Artificial Intelligence** at **Indian Institute of Information Technology (IIIT) Lucknow**
 - 🤖 Passionate about **Machine Learning, Artificial Intelligence, and Computer Vision**
 - 💻 Proficient in **Python, C++, C, Java, JavaScript, and SQL**
-- 🌐 Experienced in **Full-Stack Web Development & Backend Engineering** (React, Spring Boot, REST APIs)
 - 🧠 Active in **Data Structures, Algorithms, and Competitive Programming**
-- 🌱 Currently exploring **Advanced ML Models, Backend Systems, and Blockchain Integration**
+- 🌱 Currently exploring **Advanced ML Models and Backend Systems**
 
 ---
 
@@ -58,14 +57,12 @@
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </p>
 
-### Databases & Tools
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
@@ -74,16 +71,8 @@
 
 - 💼 **[FindEmp](https://github.com/anshbhoraniya2006-ship-it)** - Full-stack recruitment platform connecting job seekers & employers with authenticated workflows, job applications, company listings, and real-time tracking. *(React, Spring Boot, MySQL, Tailwind CSS)*
 - 🎬 **[VideoVault](https://github.com/anshbhoraniya2006-ship-it)** - Responsive video streaming application using Cloudinary CDN media delivery and client-side state management for user sessions, playlists, and comments. *(React, Tailwind CSS, Cloudinary, LocalStorage)*
-- 🌱 **Carbon Footprint Tracker & Marketplace** *(Hackofiesta Hackathon)* - Machine Learning model for carbon footprint calculation & AI advisory chatbot integrated with React and Solidity smart contracts for verified carbon credit transactions.
+- 🌱 **Carbon Footprint Tracker & Marketplace** *(Hackofiesta Hackathon)* - Machine Learning model for carbon footprint calculation & AI advisory chatbot integrated with React and smart contracts for verified carbon credit transactions.
 - 🎲 **Interactive Gambling Web Platform** - College event web app with dynamic client-side game logic and interactive UI. *(HTML, CSS, JavaScript)*
-
----
-
-## 📚 Coursework & Focus
-
-- **Courses**: Web Development, System Programming, Data Structures & Algorithms, Computational Thinking, Database Management Systems (DBMS), Object-Oriented Programming (OOPS), Computer Organization.
-- **Volunteer Experience**: Event Volunteer at **Utkrisht Club – IIIT Lucknow**
-- **Soft Skills**: Leadership, Event Management, Public Speaking, Technical Writing, Time Management
 
 ---
 
@@ -103,12 +92,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghrs.vercel.app/api?username=anshbhoraniya2006-ship-it&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://ghrs.vercel.app/api/top-langs/?username=anshbhoraniya2006-ship-it&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshbhoraniya2006-ship-it&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshbhoraniya2006-ship-it&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshbhoraniya2006-ship-it&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anshbhoraniya2006-ship-it&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
