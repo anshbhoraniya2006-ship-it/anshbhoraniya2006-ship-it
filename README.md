@@ -92,8 +92,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshbhoraniya2006-ship-it&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshbhoraniya2006-ship-it&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://ghrs.vercel.app/api?username=anshbhoraniya2006-ship-it&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://ghrs.vercel.app/api/top-langs/?username=anshbhoraniya2006-ship-it&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
